@@ -257,9 +257,14 @@ Open the local URL (usually `http://localhost:8501`) in your browser.
 
 <img width="1915" height="946" alt="image" src="https://github.com/user-attachments/assets/dd80ee75-55fe-450c-9af4-b0e885c00cad" />
 
+<img width="1912" height="1029" alt="image" src="https://github.com/user-attachments/assets/02832874-a75c-408e-9d24-663b3f5fa776" />
+
+
 
 ## Demo Video: 
 
+
+https://github.com/user-attachments/assets/5e14d1ec-ded4-4ade-aef0-c94c7a631baf
 
 ---
 
@@ -273,5 +278,3 @@ Have questions or found a bug?
 ---
 
 ⭐ If you like this project and want to implement by yourself, don't forget to star the repository!
-
-Just tell me.
